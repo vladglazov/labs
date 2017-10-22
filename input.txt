@@ -1,0 +1,13 @@
+inc
+inc
+inc
+print
+movl
+movr
+movr
+inc
+print
+begin
+inc
+print
+end
